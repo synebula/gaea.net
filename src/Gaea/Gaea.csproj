@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Gaea</AssemblyName>
+    <PackageId>Gaea</PackageId>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+</Project>
